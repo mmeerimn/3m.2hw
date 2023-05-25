@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C1190E1A-8A65-4334-8875-E29F42B799D6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B11192D1-A349-4543-A036-3DFF7D0EAEAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "3m.1hw/NewPasswordViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "NewPasswordViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B11192D1-A349-4543-A036-3DFF7D0EAEAD - 45334768734f1302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_m_1hw.NewPasswordViewController.ConfirmPasswordTF.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "3m.1hw"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrangabbazov/Downloads/3m.1hw-main-main2/3m.1hw/NewPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B11192D1-A349-4543-A036-3DFF7D0EAEAD - f5c6ff71a093f16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_m_1hw.NewPasswordViewController.ConfirmPasswordTF.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "3m.1hw"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrangabbazov/Downloads/3m.1hw-main-main2/3m.1hw/NewPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B11192D1-A349-4543-A036-3DFF7D0EAEAD - c609f7c2903b7405"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_m_1hw.NewPasswordViewController.ConfirmPasswordTF.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "3m.1hw"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrangabbazov/Downloads/3m.1hw-main-main2/3m.1hw/NewPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B11192D1-A349-4543-A036-3DFF7D0EAEAD - cede01705fb76fb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_m_1hw.NewPasswordViewController.ConfirmPasswordTF.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "3m.1hw"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrangabbazov/Downloads/3m.1hw-main-main2/3m.1hw/NewPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B11192D1-A349-4543-A036-3DFF7D0EAEAD - 9722e08386f42a5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_m_1hw.NewPasswordViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; _m_1hw.NewPasswordViewController"
+                  moduleName = "3m.1hw"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrangabbazov/Downloads/3m.1hw-main-main2/3m.1hw/NewPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "B11192D1-A349-4543-A036-3DFF7D0EAEAD - ca034283ecc20d93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_m_1hw.NewPasswordViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;_m_1hw.NewPasswordViewController&gt;"
+                  moduleName = "3m.1hw"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imrangabbazov/Downloads/3m.1hw-main-main2/3m.1hw/NewPasswordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
