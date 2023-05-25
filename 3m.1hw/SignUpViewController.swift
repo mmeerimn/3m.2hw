@@ -23,7 +23,7 @@ class SignUpViewController: UIViewController {
     
     @IBAction func SignUpButton(_ sender: Any) {
         
-        var TFArray: [UITextField] = [FullNameTF, MobileNumberTF, EmailTF, UserNameTF, PasswordTF, ConfirmingPasswordTF]
+        let TFArray: [UITextField] = [FullNameTF, MobileNumberTF, EmailTF, UserNameTF, PasswordTF, ConfirmingPasswordTF]
         
         var DidSignUpEnd = 0
             for i in TFArray {
